@@ -1,0 +1,32 @@
+table.tabla01{
+	border-radius:1px solid;
+}
+td.bgcolorlm{
+	background-color:#FE2914;
+	border: 1px solid #0f000f;
+}
+td.bgcolores{
+	background-color:#44E300;
+	border: 1px solid #0f000f;
+}
+td.bgcolordw{
+	background-color:#F3FF18;
+	border: 1px solid #0f000f;
+}
+td.bgcolorda{
+	background-color:#18F3FF;
+	border: 1px solid #0f000f;
+}
+td.bgcolorec{
+	background-color:#1869FF;
+	border: 1px solid #0f000f;
+}
+td.sepa{
+	border: 1px solid #0f000f
+}
+span.cursi{
+	font-style:italic;
+}
+span.negri{
+	font-weight:bold;
+}

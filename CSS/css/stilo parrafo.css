@@ -1,0 +1,14 @@
+body{
+	font-family: arial,helvetica,verdana;
+	font-size:0.8em;
+	color:#000;
+}
+div.capa01{
+	border:1px solid #000;
+}
+div p{
+	background: #e7e7e7;
+	margin: 20px;
+	padding:20px;
+	padding-left:20px;
+}

@@ -1,0 +1,19 @@
+table.tabla01{
+	background-color: #ededed;
+	font-size: 0.8em;
+	color:#000;
+	text-align: center;
+}
+tr.bgcolor01{
+	background-color: #dbdbdb;
+}
+table.tabla01 th{
+	background-color: #7c7c7c;
+	color:#fff;
+}
+td.table01 th,td.table01 td{
+	border-bottom: 1px dhased #9e9e9e;
+}
+body{
+	font-family:arial, helvetica, verdana;
+}

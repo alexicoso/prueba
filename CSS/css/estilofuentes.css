@@ -1,0 +1,15 @@
+body{
+	
+}
+p.texto01{
+	font-style: italic;
+	text-decoration: underline;
+	letter-spacing:3px;
+	line-height:2em;
+}
+p.texto02{
+	font-style: oblique;
+	text-decoration: line-through;
+	letter-spacing:1px;
+	line-height:1.5em;
+}
